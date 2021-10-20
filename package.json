@@ -8,10 +8,13 @@
   "dependencies": {
     "@simonwep/pickr": "^1.8.2",
     "firebase": "^9.1.1",
+    "fs": "^0.0.1-security",
     "vue": "^3.0.4"
   },
   "devDependencies": {
     "@vue/compiler-sfc": "^3.0.4",
+    "autoprefixer": "^10.3.6",
+    "sass": "^1.42.1",
     "vite": "^1.0.0-rc.13"
   }
 }
