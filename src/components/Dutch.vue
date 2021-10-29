@@ -28,6 +28,7 @@
     <div class="tasks"></div>
   </div>
 </template>
+
 <script>
 import { reactive, onMounted, watchEffect } from "vue";
 import "@simonwep/pickr/dist/themes/classic.min.css";
